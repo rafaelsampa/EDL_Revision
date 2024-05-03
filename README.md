@@ -1,5 +1,6 @@
 # UNICAP
 
+OBS: SERVIU PARA ALGUMA COISA, NICEEEEE
 
 # Listas Encadeadas (Singly Linked List)
 
