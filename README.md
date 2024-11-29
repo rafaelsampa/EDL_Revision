@@ -1,6 +1,6 @@
-# UNICAP
+# Estudo - Estrutura de Dados Lineares
+Uma pequena revisão da UNICAP para a cadeira de EDL
 
-OBS: SERVIU PARA ALGUMA COISA, NICEEEEE
 
 # Listas Encadeadas (Singly Linked List)
 
